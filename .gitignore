@@ -4,11 +4,7 @@ logs
 npm-debug.log*
 
 # Dependency directories
-<<<<<<< HEAD
 node_modules/
 
 # visual studio working file
 .vs/
-=======
-node_modules/
->>>>>>> f49ca878c702a76c310ccab76e4c4cf3d1705c88
