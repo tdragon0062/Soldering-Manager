@@ -1,1 +1,1 @@
-Soldering Manager 개발
+ 목표 : Soldering Manager 개발
