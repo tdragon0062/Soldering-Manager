@@ -1,1 +1,1 @@
-깃허브 실습
+Soldering Manager 개발
